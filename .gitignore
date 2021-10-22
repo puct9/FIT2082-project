@@ -1,0 +1,20 @@
+# Notebooks
+notebooks/**
+!notebooks/final
+!notebooks/final/**
+notebooks/final/export/eps
+
+# Misc
+.vscode
+ds_citations
+venv
+.ipynb_checkpoints
+__pycache__
+
+# Top level files
+/*.*
+/TODO
+
+!.gitignore
+!README.md
+!setup.py
