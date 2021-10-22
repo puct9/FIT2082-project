@@ -18,3 +18,4 @@ __pycache__
 !.gitignore
 !README.md
 !setup.py
+!requirements.txt
